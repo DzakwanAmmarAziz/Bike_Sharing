@@ -2,16 +2,14 @@
 
 ## Project Analisis Data
 
-Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **Streamlit**
-
-## Deskripsi
+Repository ini berisi proyek data analytics submission dicoding. dan telah dideployment di **Streamlit**
 
 Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. 
 
 ## Struktur Direktori
 
-- **/data**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
 - **/dashboard**: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
+- **/data**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
 - **notebook.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
