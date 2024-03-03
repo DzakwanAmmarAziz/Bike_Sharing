@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset.
 
 ## Struktur Direktori
 
-- **/dashboard**: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
+- **/dashboard**: Direktori ini berisi file dashboard.py dan data yang telah dibersihkan yang digunakan untuk membuat dashboard hasil analisis data.
 - **/data**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
 - **notebook.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
